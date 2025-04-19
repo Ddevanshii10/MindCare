@@ -1,0 +1,10 @@
+transformers ==4.51.2
+torch
+fastapi 
+uvicorn
+pydantic
+nltk 
+scikit-learn
+vaderSentiment==3.3.2
+streamlit
+requests
